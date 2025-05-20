@@ -1,4 +1,5 @@
-const math = require('./math');
+// node will finds js extension for common js so, we don't need to specify .js extension here for math.js file
+const math = require('./math'); 
 
 console.log("Common JS module practice");
 
