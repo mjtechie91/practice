@@ -1,0 +1,3 @@
+Hi, this text is added from Node js 
+ this is next line
+another line appended to file from nodejs

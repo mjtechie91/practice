@@ -1,0 +1,16 @@
+{
+  "name": "npm-practice",
+  "version": "1.0.0",
+  "description": "Practice ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahendra",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

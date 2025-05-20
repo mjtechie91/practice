@@ -1,0 +1,2 @@
+Hi, this content added from nodejs using writeFile(Async)
+ this line is added from nodejs using appendFile method asynchronously
