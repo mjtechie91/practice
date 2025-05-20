@@ -1,0 +1,4 @@
+{
+    "type": "module",
+    "comment": "If you don't mention type=module, by default it'll consider as commonJS module"
+}
